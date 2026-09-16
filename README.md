@@ -1,4 +1,4 @@
-                                                           📱QR Code Generator
+                                                 📱QR Code Generator
 
 A simple and user-friendly **QR Code Generator** built with Python and Tkinter.
 It allows users to enter text or a URL, generate a QR code, preview it, and save it as an image.
